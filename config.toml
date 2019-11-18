@@ -1,7 +1,7 @@
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "Urbana-Champaign UseR!"
+title = "Urbana-Champaign UseR Group"
 theme = "hugo-material"
 googleAnalytics = ""
 disqusShortname = ""
