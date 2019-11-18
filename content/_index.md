@@ -4,7 +4,9 @@ pagewidth: 20
 markup: "mmark"
 ---
 
-### Scheduled Talks
+### Scheduled Meetups
+
+Meetups begin at **5:00 PM** in **Room 1302** of **[Everitt Lab, 1406 W Green St, Urbana, IL 61801](https://www.google.com/maps/dir//Everitt+Laboratory+1406+West+Green+Street/@40.1109256,-88.2293148,793m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x880cd73f8ec8a0e7:0x5db444e6797c38ad!2m2!1d-88.2282581!2d40.1108975!3e2)**
 
 {{% schedule %}}
 
