@@ -46,7 +46,6 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
 
-    pagewidth = 10
     custom_css = ["example.css"]
 #    custom_js = ["example.js"]
 

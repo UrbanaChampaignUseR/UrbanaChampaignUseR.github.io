@@ -1,5 +1,6 @@
 ---
 title: "UC-UR User Group for R"
+pagewidth: 20
 markup: "mmark"
 ---
 
