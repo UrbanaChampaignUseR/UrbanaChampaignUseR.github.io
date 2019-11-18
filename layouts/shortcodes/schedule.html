@@ -1,26 +1,24 @@
-{{ if .Site.Data.talks }}
+{{ if .Site.Data.events }}
 <table class="table" style="max-width:1200px;margin-left:auto;margin-right:auto">
   <tr>
-    <th style="width:20%;text-align:right">Date</th>
-    <th style="width:20%;text-align:right">Time</th>
-    <th style="width:50%">Talk</th>
-    <th style="width:7.5%;text-align:center">Speaker</th>
-    <th style="width:7.5%;text-align:center">Slide</th>
+    <th style="width:13%;text-align:right">Date</th>
+    <th style="width:40%">Topic</th>
+    <th style="width:24.5%;">Speaker</th>
+    <th style="width:7.5%;text-align:center">Slides</th>
     <th style="width:7.5%;text-align:center">Code</th>
     <th style="width:7.5%;text-align:center">Video</th>
   </tr>
 
-  {{ range .Site.Data.talks}}
+  {{ range .Site.Data.events}}
     {{range . }}
     <tr>
       <td align="right">{{ (time .date).Format "Jan 2, 2006" }}</td>
-      <td align="right">{{ .time }}</td>
-      <td>{{ .title }}</td>
-      <td>{{ .speaker }}</td>
+      <td align="left">{{ .topic }}</td>
+      <td align="left">{{ .speaker }}</td>
 
 
-      {{ if .lecture }}
-      <td align="center"><a href="{{ .lecture  }}.pdf">
+      {{ if .slides }}
+      <td align="center"><a href="{{ .slides  }}">
           <i class="fa fa-file-image-o  fa-lg"></i></a></td>
       {{ else }}
         <td align="center">
