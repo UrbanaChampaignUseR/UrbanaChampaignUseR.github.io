@@ -1,5 +1,6 @@
 ---
-title: "UC-UR User Group for R"
+title: "UC-UR"
+description: "An R Users Group for Urbana-Champaign"
 pagewidth: 20
 markup: "mmark"
 ---
