@@ -22,6 +22,11 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
     pre = "<i class='material-icons'>people</i>"
     url = "/about"
     weight = 2
+[[menu.main]]
+    name = "RStudio Cloud"
+    pre = "<i class='fa fa-2x fa-cloud'></i>"
+    url = "https://rstudio.cloud/spaces/40189/join?access_code=p0zXu2obd7Ktu7wAviavJR1FmlMJn6djllSOEqnp"
+    weight = 3
 
 
 [[menu.footer]]
