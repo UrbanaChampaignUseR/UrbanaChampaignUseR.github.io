@@ -5,7 +5,8 @@ title: About
 The Urbana-Champaign UseR (UC-UR) Group was founded in October 2019 by 
 [James Balamuta](http://thecoatlessprofessor.com/),
 [David Dalpiaz](https://daviddalpiaz.com/), [Ha Nguyen](www.haknguyen.com).
-[Teng Wu](https://stat.illinois.edu/directory/profile/tengwu2), and [Hulya Yigit](https://github.com/hyigit2). The group was established to promote
+[Teng Wu](https://stat.illinois.edu/directory/profile/tengwu2), and 
+[Hulya Yigit](https://github.com/hyigit2). The group was established to promote
 and scultivate the usage of _R_ at the [University of Illinois at Urbana-Champaign
 (UIUC)](https://illinois.edu). 
 
