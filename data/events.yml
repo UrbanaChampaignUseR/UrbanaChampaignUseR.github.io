@@ -1,7 +1,6 @@
 events:
-  - topic: "The Emergence of a Grammar for Data"
-    speaker: "James Balamuta"
-    date: "2019-12-02"
   - topic: "Welcome to UC-UR"
     speaker: "James Balamuta & David Dalpiaz"
     date: "2019-12-02"
+    slides: "/talks/2019-12-02-intro-talk/intro-talk.pdf"
+    code: "https://rstudio.cloud/spaces/40189/project/728549"
