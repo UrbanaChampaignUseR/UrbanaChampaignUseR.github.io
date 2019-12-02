@@ -1,0 +1,110 @@
+---
+title: "UC-UR"
+subtitle: "An R Users Group for Urbana-Champaign"
+author: "James Balamuta and David Dalpiaz"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'      # Month DD, YYYY (Main Slide)
+output: 
+   uiucthemes::html_imetropolis
+---
+
+# Introduction
+
+## About
+
+- Weekly talks and gatherings for _R_ users and developers of all backgrounds.
+- Meetups range from data hackathons, collaborative projects, and short talks.
+- Join us on Slack: <https://go.illinois.edu/uc-ur-slack>
+- More details on the website: <http://uc-ur.netlify.com>
+
+## Mission
+
+The mission of the Urbana-Champaign UseR (UC-UR) group is to foster a 
+constructive and collaborative environment for users and developers of the _R_ 
+language. We seek to faciliate the free exchange of ideas, developments, and
+best practices surrounding _R_ in the Urbana-Champaign area and to the greater
+_R_ community at large. Everyone who is interested in _R_ should gain newfound
+knowledge by attending.
+
+---
+
+# Future Meetups
+
+We're considering creating a two-track lecture series alongside of open
+collaborative times. Following topics for future meetups: 
+
+- Beginner Track
+    - Collaborative #TidyTuesday Hackathon
+    - Teaming up for Kaggle Competitions
+    - Data Visualization
+    - Reproducibility with _RMarkdown_
+    - Web Scraping
+- Advanced Track
+    - Animation
+    - Deep Learning with Keras / Tensorflow (V2)
+    - Bayesian analysis with Stan
+    - Using _Python_ and _R_ interchangably. 
+    - Code Profiling
+    - Augmenting _R_ with _C++_
+
+Interested about giving a talk in one of the topics? Please let one of the
+leadership committee members know.
+
+---
+
+# Planning meetups
+
+Please help us plan meetups for the group by filling out the following survey:
+
+### https://forms.gle/c2nVRMSNjyABU4FH8
+
+The survey will allow us to schedule the best day and time to meet weekly 
+alongside of the topics we should cover.
+
+---
+
+# Leadership Committee
+
+The Urbana-Champaign UseR (UC-UR) Group is an all-volunteer organization
+founded in October 2019 by 
+
+- [James Balamuta](http://thecoatlessprofessor.com/)
+- [David Dalpiaz](https://daviddalpiaz.com/)
+- [Ha Nguyen](http://www.haknguyen.com)
+- [Teng Wu](https://stat.illinois.edu/directory/profile/tengwu2) 
+- [Hulya Yigit](https://github.com/hyigit2)
+
+Founders make up the leadership committee, which focuses on planning and 
+execution of the group's mission. 
+
+---
+
+# Sponsorship
+
+The group is being sponsored by a [vector-level User Group grant](https://www.r-consortium.org/projects/r-user-group-support-program) from the [R Consortium](https://www.r-consortium.org/).
+
+<a href="https://www.r-consortium.org" style="text-decoration:none">
+<img src="https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png" width="200px">
+</a>
+---
+
+# Goal
+
+Laid back event. Aim to work collaboratively on the new Tidy Tuesday
+data set. 
+
+Grab a copy here:
+
+#### https://rstudio.cloud/spaces/40189/project/728549 
+
+**Note:** You must first join our workspace prior to accessing the project. 
+
+#### https://go.illinois.edu/uc-ur-rstudio-cloud
+
+---
+
+# Thanks!
+
+- **Survey:** <https://forms.gle/c2nVRMSNjyABU4FH8>
+- **Communicate with us through Slack:** <https://go.illinois.edu/uc-ur-slack>
+- **Join us on RStudio Cloud workspace:** <https://go.illinois.edu/uc-ur-rstudio-cloud>
+- **Bookmark the website:** <http://uc-ur.netlify.com>
