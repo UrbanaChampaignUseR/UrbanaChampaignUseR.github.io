@@ -1,15 +1,17 @@
 ---
 title: About
+description: An overview of the organization.
 ---
+
+## Leadership
 
 The Urbana-Champaign UseR (UC-UR) Group is an all-volunteer organization
 founded in October 2019 by 
 [James Balamuta](http://thecoatlessprofessor.com/),
 [David Dalpiaz](https://daviddalpiaz.com/), [Ha Nguyen](http://www.haknguyen.com).
 [Teng Wu](https://stat.illinois.edu/directory/profile/tengwu2), and 
-[Hulya Yigit](https://github.com/hyigit2). The group was established to promote
-and cultivate the usage of _R_ at the [University of Illinois at Urbana-Champaign
-(UIUC)](https://illinois.edu). 
+[Hulya Yigit](https://github.com/hyigit2). The founders present make up the
+leadership committee that stewards the organization.
 
 ## Mission Statement
 
