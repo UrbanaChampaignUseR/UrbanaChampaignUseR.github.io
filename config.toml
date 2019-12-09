@@ -32,6 +32,11 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
     pre = "<i class='fa fa-2x fab fa-slack'></i>"
     url = "https://go.illinois.edu/uc-ur-slack"
     weight = 4
+[[menu.main]]
+    name = "Email Listserv"
+    pre = "<i class='fa fa-2x fa-envelope-square'></i>"
+    url = "https://groups.google.com/forum/#!forum/uc-ur/join"
+    weight = 5
 
 [[menu.footer]]
   weight = 1
