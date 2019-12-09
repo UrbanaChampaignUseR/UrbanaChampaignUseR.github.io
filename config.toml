@@ -18,25 +18,46 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/"
     weight = 1
 [[menu.main]]
+    identifier = "about"
     name = "About"
     pre = "<i class='material-icons'>people</i>"
     url = "/about"
     weight = 2
 [[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    pre = "<i class='fa fa-2x fa-book-reader'></i>"
+    url = "/resources"
+    weight = 3
+[[menu.main]]
+    identifier = "getting-started-with-r"
+    name = "Getting Started"
+    pre = "<i class='fa fa-2x fa-hourglass-start'></i>"
+    url = "/getting-started-with-r"
+    weight = 1
+    parent = "resources"
+[[menu.main]]
+    identifier = "r-at-uiuc"
+    name = "R at UIUC"
+    pre = "<i class='fa fa-2x fa-power-off'></i>"
+    url = "/r-at-uiuc"
+    weight = 2
+    parent = "resources"
+[[menu.main]]
     name = "RStudio Cloud"
     pre = "<i class='fa fa-2x fa-cloud'></i>"
     url = "https://rstudio.cloud/spaces/40189/join?access_code=p0zXu2obd7Ktu7wAviavJR1FmlMJn6djllSOEqnp"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Slack"
     pre = "<i class='fa fa-2x fab fa-slack'></i>"
     url = "https://go.illinois.edu/uc-ur-slack"
-    weight = 4
+    weight = 5
 [[menu.main]]
-    name = "Email Listserv"
+    name = "Email List"
     pre = "<i class='fa fa-2x fa-envelope-square'></i>"
     url = "https://groups.google.com/forum/#!forum/uc-ur/join"
-    weight = 5
+    weight = 6
 
 [[menu.footer]]
   weight = 1
