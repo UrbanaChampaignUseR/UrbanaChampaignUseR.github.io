@@ -12,3 +12,15 @@ Generally speaking, the website is made using the following tools:
 - Hosting for the website is through [Netlify](https://www.netlify.com). 
 - To locally preview the website and convert `.Rmd` files to `.md` files, the [`blogdown`](https://github.com/rstudio/blogdown) package is employed which provides an interfaces with [`rmarkdown`](https://cran.r-project.org/web/packages/rmarkdown).
 - Theming is based on the [`hugo-material theme`](https://github.com/cboettig/hugo-material).
+
+### Materials
+
+Short talks and hackathon files are stored in separate repositories. These repositories
+are split by the year in which the talk was given, e.g. `talks-2019`, 
+through a [`git` submodule]().
+
+To create a new 
+
+```bash
+git submodule add https://github.com/mowen/awesomelib lib/awesomelib
+``` 
