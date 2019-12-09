@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about"
     weight = 2
 [[menu.main]]
-    identifier = "resources"
+    identifier = "dropdown"
     name = "Resources"
     pre = "<i class='fa fa-2x fa-book-reader'></i>"
     url = "/resources"
@@ -35,14 +35,14 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
     pre = "<i class='fa fa-2x fa-hourglass-start'></i>"
     url = "/getting-started-with-r"
     weight = 1
-    parent = "resources"
+    parent = "dropdown"
 [[menu.main]]
     identifier = "r-at-uiuc"
     name = "R at UIUC"
     pre = "<i class='fa fa-2x fa-power-off'></i>"
     url = "/r-at-uiuc"
     weight = 2
-    parent = "resources"
+    parent = "dropdown"
 [[menu.main]]
     name = "RStudio Cloud"
     pre = "<i class='fa fa-2x fa-cloud'></i>"
