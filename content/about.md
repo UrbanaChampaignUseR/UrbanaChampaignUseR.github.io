@@ -11,6 +11,15 @@ founded in October 2019 by
 and cultivate the usage of _R_ at the [University of Illinois at Urbana-Champaign
 (UIUC)](https://illinois.edu). 
 
+## Mission Statement
+
+The mission of the Urbana-Champaign UseR (UC-UR) group is to foster a 
+constructive and collaborative environment for users and developers of the _R_ 
+language. We seek to faciliate the free exchange of ideas, developments, and
+best practices surrounding _R_ in the Urbana-Champaign area and to the greater
+_R_ community at large. Everyone who is interested in _R_ should gain newfound
+knowledge by attending.
+
 ## Sponsorship
 
 The group is being sponsored by a [vector-level User Group grant](https://www.r-consortium.org/projects/r-user-group-support-program) from the [R Consortium](https://www.r-consortium.org/).
