@@ -15,12 +15,28 @@ Generally speaking, the website is made using the following tools:
 
 ### Materials
 
-Short talks and hackathon files are stored in separate repositories. These repositories
-are split by the year in which the talk was given, e.g. `talks-2019`, 
-through a [`git` submodule]().
+Short talks and hackathon files are stored in separate repositories. 
+These repositories are split by the year in which the talk was given, 
+e.g. `talks-2019`, through a [`git` submodule](https://github.blog/2016-02-01-working-with-submodules/).
 
-To create a new 
+To create a new submodule, first create a new repository on GitHub.
+
+```
+https://github.com/new
+```
+
+Then, within the `website` repository, construct a link via:
 
 ```bash
-git submodule add https://github.com/mowen/awesomelib lib/awesomelib
-``` 
+git submodule add git@github.com:UrbanaChampaignUseR/talks-<YYYY>.git static/talks/talks-<YYYY>
+```
+
+where `<YYYY>` represents the year without `<>`.
+
+
+To refresh the submodule, use:
+
+```bash
+git submodule update --init --remote --merge --recursive
+```
+
