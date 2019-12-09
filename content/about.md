@@ -10,8 +10,9 @@ founded in October 2019 by
 [James Balamuta](http://thecoatlessprofessor.com/),
 [David Dalpiaz](https://daviddalpiaz.com/), [Ha Nguyen](http://www.haknguyen.com).
 [Teng Wu](https://stat.illinois.edu/directory/profile/tengwu2), and 
-[Hulya Yigit](https://github.com/hyigit2). The founders present make up the
-leadership committee that stewards the organization.
+[Hulya Yigit](https://github.com/hyigit2). The foundering members make up the
+leadership committee that stewards the organization. Leadership handles 
+meetup programming and administrative initiatives.
 
 ## Mission Statement
 
