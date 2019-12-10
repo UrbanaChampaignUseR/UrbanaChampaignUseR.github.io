@@ -16,11 +16,11 @@ Please make sure to bring your laptop to all meetups and join our
 
 We have three types of events:
 
-- **Beginner:** Activities that seek to improve the starting experience of
+- **B:** Beginner activities that seek to improve the starting experience of
   new _R_ users.
-- **Advanced:** Talks focused on intermediary or advanced concepts with the
+- **C:** Collaborative projects, hackathons, or open hours to work together on analyzing data.
+- **A:** Advanced Talks focused on intermediary or advanced concepts with the
   _R_ language.
-- **Collaborative:** Open hours to work together on analyzing data or projects.
 
 ### Want to get involved?
 

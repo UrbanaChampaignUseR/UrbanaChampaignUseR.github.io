@@ -13,6 +13,7 @@
     {{range . }}
     <tr>
       <td align="right">{{ (time .date).Format "Jan 2, 2006" }}</td>
+      <td align="left">{{ .type }}</td>
       <td align="left">{{ .topic }}</td>
       <td align="left">{{ .speaker }}</td>
 
