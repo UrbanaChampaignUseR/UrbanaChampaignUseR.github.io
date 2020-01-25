@@ -1,4 +1,8 @@
 events:
+  - topic: "rstudio::conf(2020L) Watch Party!"
+    date: "2020-01-29"
+    type: "A"
+    speaker: "Temple Hoyne Buell Hall 134"
   - topic: "Data Wrangling with dplyr"
     date: "2019-12-09"
     type: "B"
