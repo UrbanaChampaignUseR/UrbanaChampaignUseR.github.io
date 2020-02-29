@@ -24,26 +24,32 @@ ignoreFiles = ["\\.Rmd$","\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about"
     weight = 2
 [[menu.main]]
+    identifier = "special-events"
+    name = "Special Events"
+    pre = "<i class='fa fa-2x fa-book'></i>"
+    url = "/special-events"
+    weight = 3
+[[menu.main]]
     identifier = "resources"
     name = "Resources"
-    pre = "<i class='fa fa-2x fa-book'></i>"
+    pre = "<i class='fa fa-2x fa-calendar'></i>"
     url = "/resources"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "RStudio Cloud"
     pre = "<i class='fa fa-2x fa-cloud'></i>"
     url = "https://rstudio.cloud/spaces/40189/join?access_code=p0zXu2obd7Ktu7wAviavJR1FmlMJn6djllSOEqnp"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Slack"
     pre = "<i class='fa fa-2x fab fa-slack'></i>"
     url = "https://go.illinois.edu/uc-ur-slack"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "Email List"
     pre = "<i class='fa fa-2x fa-envelope-square'></i>"
-    url = "https://groups.google.com/forum/#!forum/uc-ur/join"
-    weight = 6
+    url = "https://groups.google.com/forum/#!forum/uc-ur"
+    weight = 7
 
 [[menu.footer]]
   weight = 1
