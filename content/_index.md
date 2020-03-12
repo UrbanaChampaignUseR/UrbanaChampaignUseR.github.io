@@ -7,8 +7,8 @@ markup: "mmark"
 
 ### Scheduled Meetups
 
-Meetups for the Spring semester will begin in March. We've delayed the return
-of meetups due to fears of coronavirus. 
+Meetups for the Spring semester are on-hold as the [University policy regarding
+coronavirus](https://covid19.illinois.edu/frequently-asked-questions/) prevents events from being held. 
 
 <!-- at **5:00 PM** in **Room 2310** of **[Everitt Lab, 1406 W Green St, Urbana, IL 61801](https://www.google.com/maps/dir//Everitt+Laboratory+1406+West+Green+Street/@40.1109256,-88.2293148,793m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x880cd73f8ec8a0e7:0x5db444e6797c38ad!2m2!1d-88.2282581!2d40.1108975!3e2)**. --> All attendees must follow the established [Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 
